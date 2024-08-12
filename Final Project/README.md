@@ -98,7 +98,7 @@ The `liked_songs` table includes:
 
 ### Relationships
 
-![ER Diagram](sample-project/diagram.png)
+![ER Diagram](diagram.png)
 
 ## Optimizations
 
