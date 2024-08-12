@@ -1,4 +1,4 @@
-# CS50 Intro to Database with SQL Solutions (https://github.com/thoriataher/SQL-CS50/tree/main)
+# CS50 Intro to Database with SQL Solutions [](https://github.com/thoriataher/SQL-CS50/tree/main)
 
 This repository contains solutions for the CS50 Intro to Database with SQL course, a part of Harvard University's renowned CS50 curriculum.
 
